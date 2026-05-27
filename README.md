@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./public/sprites/hud/logo.png" width="700">
+  <img src="./public/sprites/hud/logo3x.png">
 </p>
 
 A fun 2-player runner style game developed in under a week for a public college showcase event.
 
 ## Play Online
 
-[You can play the game directly in your browser here!](https://.github.io//)
+[You can play the game directly in your browser here!](https://enzomlustosa.github.io/dinorace/)
 
 # About
 This project was made for a college assignment where visitors could come to campus and interact with works created by students.
