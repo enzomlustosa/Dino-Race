@@ -1,5 +1,5 @@
 {
-	"name": "DinoRace",
+	"name": "dino-race",
 	"type": "module",
 	"scripts": {
 		"build": "vite build",
